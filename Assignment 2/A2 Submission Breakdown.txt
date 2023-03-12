@@ -1,0 +1,24 @@
+ASSIGNMENT 2:
+Implementation. (20%)
+
+This is the link where you can submit assignment 2. Consider the description given in "Coursework Deliverable 2 description". You must submit:
+
+
+A short video showing the system running and explaining the characteristics of the interface. You must explain what it does and any interesting extensions you have added, and how they align with the user's needs. This video should reflect the functionality of your design, and of course, it should show the changes you have made to the boilerplate provided to you. 
+The video format must be mp4. 
+Its length must not exceed 10min. 
+You can use any method to record the video you want, but the video must be of sufficient quality to notice the interface's details. 
+If the video does not clearly show these details, this could mean a lower mark for you.
+Links to videos are not allowed. The reason is simple. If we cannot get access to your videos for any reason, you don't get marks.
+You must also submit to QMplus the code you have generated for this app, including the style sheets. You don't need to include any dependencies or additional libraries you used.
+For this, you can create a zip file of the src folder.
+You should submit a readme file with instructions to run your project (for example, how to install dependencies). The code you submit should render the same thing you show in the video.
+You must also submit a text document that shows the group members' names who have contributed to the coursework.
+Important note for the video: You must NOT show in your recording how to install dependencies or anything like that, and you must NOT show or explain your code. Your code has to explain itself. Comment it! If we need to check more details, we could run your code. This is why we need instructions to run it.
+
+The maximum size that can be uploaded to QMplus altogether with the video, the code files and the group members file must not exceed 50 megabytes.
+The second assignment deadline is Monday 29th of March 2021, at 10:00 AM (GMT). 
+
+Only one member of the group has to submit the file(s). It counts for all members of the group. Be sure there is a designated person to submit the assignment and that it is actually submitted. 
+
+You will need to click the submit button to declare your submission as final. 
